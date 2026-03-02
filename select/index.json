@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "TOKYO CITY",
+  "base_artist": "大漠波新",
+  "createdAt": "2026-03-02T19:18:13.131077Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tokyo City",
+      "artist": "Tokyo Blade",
+      "has_synced": false,
+      "path": "select/01_Tokyo_City_Tokyo_Blade.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tokyo City Rain",
+      "artist": "John Calvin Abney",
+      "has_synced": false,
+      "path": "select/02_Tokyo_City_Rain_John_Calvin_Abney.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tokyo City Rain",
+      "artist": "Abney, John Calvin",
+      "has_synced": false,
+      "path": "select/03_Tokyo_City_Rain_Abney,_John_Calvin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tokyo City Night",
+      "artist": "Ziggy",
+      "has_synced": true,
+      "path": "select/04_Tokyo_City_Night_Ziggy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lullaby for TOKYO CITY",
+      "artist": "Awesome City Club",
+      "has_synced": true,
+      "path": "select/05_Lullaby_for_TOKYO_CITY_Awesome_City_Club.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tokyo City Serenade",
+      "artist": "Ayumi Nakamura",
+      "has_synced": false,
+      "path": "select/06_Tokyo_City_Serenade_Ayumi_Nakamura.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tokyo City",
+      "artist": "Goose house",
+      "has_synced": true,
+      "path": "select/07_Tokyo_City_Goose_house.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tokyo City Club",
+      "artist": "LILI LIMIT",
+      "has_synced": true,
+      "path": "select/08_Tokyo_City_Club_LILI_LIMIT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOKYO CITY",
+      "artist": "大漠波新",
+      "has_synced": false,
+      "path": "select/pl_01_TOKYO_CITY_大漠波新.txt"
+    }
+  ]
+}
